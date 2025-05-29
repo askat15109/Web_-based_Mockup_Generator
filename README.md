@@ -6,7 +6,7 @@
 ✅ Download Feature – Users can download the final mockup image.
 ✅ Dark-Themed UI – The design features a modern dark theme with enhanced spacing and styling.
 
-
+![mockup Screenshot](assets/mockup.png)
 ## How It Works
 User Inputs: The user enters a website URL and selects a background color.
 Mockup Generation: Clicking the "Generate Mockup" button triggers the process.
